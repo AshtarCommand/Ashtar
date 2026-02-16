@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=32&center=false&vCenter=false&width=600&height=50&lines=Hi+there!+I'm+Ashtar;" alt="Typing SVG"/>
 </div>
 I'm a Multidisciplinary Developer exploring the world of software, games, mods, AI, and cybersecurity.  
-I love building, learning, and experimenting** with new technologies to turn ideas into working projects. 🚀
+I love building, learning, and experimenting with new technologies to turn ideas into working projects. 🚀
 
 <div align="center">
   <img src="https://i.imgur.com/M6putEw.jpeg" width="300"/>
